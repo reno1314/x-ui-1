@@ -2,9 +2,9 @@
 
 export LANG=en_US.UTF-8
 
-RED="\033[31m"
-GREEN="\033[32m"
-YELLOW="\033[33m"
+red="\033[31m"
+green="\033[32m"
+yellow="\033[33m"
 PLAIN="\033[0m"
 
 red() {
